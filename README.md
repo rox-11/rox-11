@@ -47,6 +47,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rox-11/rox-11/output/snake.svg" alt="Snake animation" />
 
 ###
